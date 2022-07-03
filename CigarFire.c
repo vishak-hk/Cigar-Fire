@@ -1587,7 +1587,7 @@ void main_menu(int id)
 	case 1:
 		if(id==1)
 			{
-				fire=1;
+				fire = 1;
 			 	o=n=0.0;
 			 	//lPlaySound("fire.wav", NULL, SND_ASYNC|SND_FILENAME|SND_LOOP);
 
